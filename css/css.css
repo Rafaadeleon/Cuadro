@@ -1,0 +1,45 @@
+.saludo{
+    font-family: 'Nunito', sans-serif;
+    color:red;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+}
+
+.nuevaClase{
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    margin-top: 90px;
+    font-size: 90px;
+    color: greenyellow;
+    transition: 0.5s;
+    
+}
+
+
+.estilo_1{
+width: 300px;
+    height: 400;
+    background-color: purple;
+    margin: auto;
+}
+
+.estilo_2{
+width: 300px;
+    height: 300;
+    background-color: rebeccapurple;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.ds_btn{
+    width: 100px;
+    height: 30px;
+    background-color: greenyellow;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
